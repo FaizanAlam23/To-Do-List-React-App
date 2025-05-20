@@ -1,11 +1,8 @@
 body {
   font-family: Arial, sans-serif;
-  /* background-color: #f5f5f5; */
   margin: 0;
   padding: 20px;
-  /* background: linear-gradient(to bottom right, #f0f9ff, #ffffff, #f3f4f6) */
-  background-color: #1f2937; /* Tailwind's gray-800 */
-  /* color: #f9fafb;  */
+  background-color: #1f2937;
 }
 
 .container {
