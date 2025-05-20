@@ -14,7 +14,7 @@ This is a simple To-Do List application built with React and Vite. The applicati
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/todolist.git
+   git clone https://github.com/FaizanAlam23/To-Do-List-React-App.git
    cd To-Do-List-App
 
 2. **Install dependencies:**
